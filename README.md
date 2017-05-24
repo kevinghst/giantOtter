@@ -1,4 +1,5 @@
 ## Instructions
+* Note - Run Part I and Part II sequentially, since the frontend webpage is dependent on an output file from the python exercise.
 
 ### Part I - Python Practice
 1. Download or git clone repo, navigate into code_sample directory
