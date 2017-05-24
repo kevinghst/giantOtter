@@ -1,0 +1,8 @@
+{"__type__":"LogData",
+  "obs":{"utterance":"hello",
+         "listeners":[{"type":"waitress","__type__":"Entity","name":"waitress"}],
+         "type":"speech",
+         "actor":{"type":"customer","__type__":"Entity","name":"customer"},
+         "__type__":"Observation"
+        }
+}
